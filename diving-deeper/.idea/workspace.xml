@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36551b20-c865-4298-a156-896808fdacc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/guess-log-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/number-container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/instruction-text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/primary.button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/game-over.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/game.screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/start-game.screen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/game/number-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/number-container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/game-over.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/game-over.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/game.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/game.screen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/start-game.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/start-game.screen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +63,8 @@
       <workItem from="1699989913126" duration="3981000" />
       <workItem from="1700160608738" duration="6133000" />
       <workItem from="1700380153076" duration="8807000" />
-      <workItem from="1700512093030" duration="170000" />
+      <workItem from="1700512093030" duration="2813000" />
+      <workItem from="1700593534467" duration="30000" />
     </task>
     <servers />
   </component>
