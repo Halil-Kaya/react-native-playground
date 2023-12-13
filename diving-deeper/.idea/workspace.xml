@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36551b20-c865-4298-a156-896808fdacc6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/game/number-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/number-container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Title.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/game-over.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/game-over.screen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/game.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/game.screen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/start-game.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/start-game.screen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +58,24 @@
       <workItem from="1700160608738" duration="6133000" />
       <workItem from="1700380153076" duration="8807000" />
       <workItem from="1700512093030" duration="2813000" />
-      <workItem from="1700593534467" duration="30000" />
+      <workItem from="1700593534467" duration="708000" />
+      <workItem from="1700921351422" duration="1402000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(screen): update screen sizes.">
+      <created>1700593615386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700593615386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(screen): update screen sizes." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(screen): update screen sizes." />
   </component>
 </project>
